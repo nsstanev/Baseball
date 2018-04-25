@@ -1,0 +1,4 @@
+[submodule "Softcore"]
+	path = Softcore
+	url = https://github.com/nsstanev/Softcore.git
+	branch = master
